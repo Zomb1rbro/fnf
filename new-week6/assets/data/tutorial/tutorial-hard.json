@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
-		"player2": "dad",
+		"player2": "happymouse2",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -7231,17 +7231,20 @@
 				"mustHitSection": true
 			}
 		],
+		"player3": "gf",
 		"isHey": false,
 		"cutsceneType": "none",
 		"isSpooky": false,
-		"song": "tutorial",
+		"song": "Happy",
 		"validScore": true,
-		"speed": 2.8,
+		"speed": 2.6,
 		"sectionLengths": [],
 		"isMoody": false,
+		"uiType": "normal",
 		"needsVoices": false,
 		"sections": 0,
-		"stage": "stage",
+		"stage": "street1",
 		"bpm": 150,
+		"gf": "gf"
 	}
 }
