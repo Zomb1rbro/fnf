@@ -10283,13 +10283,13 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "gf",
+		"player2": "dad",
 		"song": "tutorial",
 		"arrowSkin": "",
 		"needsVoices": false,
 		"validScore": true,
 		"stage": "stage",
 		"bpm": 150,
-		"speed": 3.5
+		"speed": 2.8
 	}
 }
