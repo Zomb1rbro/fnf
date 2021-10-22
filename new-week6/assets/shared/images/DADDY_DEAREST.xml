@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="happymouse2_assets.png">
+<TextureAtlas imagePath="DADDY_DEAREST.png">
 <SubTexture name="Sadmouse Idle0000" x="0" y="0" width="659" height="754" frameX="0" frameY="0" frameWidth="659" frameHeight="754" />
 <SubTexture name="Sadmouse Idle0001" x="659" y="0" width="659" height="754" frameX="0" frameY="0" frameWidth="659" frameHeight="754" />
 <SubTexture name="Sadmouse Idle0002" x="1318" y="0" width="659" height="754" frameX="0" frameY="0" frameWidth="659" frameHeight="754" />
