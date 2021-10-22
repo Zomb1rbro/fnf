@@ -7231,12 +7231,12 @@
 				"mustHitSection": true
 			}
 		],
-		"isHey": true,
+		"isHey": false,
 		"cutsceneType": "none",
 		"isSpooky": false,
 		"song": "tutorial",
 		"validScore": true,
-		"speed": 2.6,
+		"speed": 2.8,
 		"sectionLengths": [],
 		"isMoody": false,
 		"uiType": "normal",
@@ -7244,6 +7244,5 @@
 		"sections": 0,
 		"stage": "stage",
 		"bpm": 150,
-		"gf": "gf"
 	}
 }
