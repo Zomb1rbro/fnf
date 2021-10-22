@@ -10283,13 +10283,12 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "happymouse",
-		"player3": "gf",
-		"song": "Happy",
+		"player2": "gf",
+		"song": "tutorial",
 		"arrowSkin": "",
 		"needsVoices": false,
 		"validScore": true,
-		"stage": "street1",
+		"stage": "stage",
 		"bpm": 150,
 		"speed": 3.5
 	}
