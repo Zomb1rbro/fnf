@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
-		"player2": "sadmouse",
+		"player2": "monster",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -1998,7 +1998,7 @@
 			}
 		],
 		"player3": "gf",
-		"song": "Unhappy",
+		"song": "bopeebo",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 1.6,
