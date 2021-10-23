@@ -1998,10 +1998,10 @@
 			}
 		],
 		"player3": "gf",
-		"song": "Bopeebo",
+		"song": "bopeebo",
 		"needsVoices": true,
 		"validScore": true,
-		"speed": 1.6,
+		"speed": 1.8,
 		"bpm": 100
 	}
 }
