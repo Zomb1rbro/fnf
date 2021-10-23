@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bfm",
-		"player2": "sadmouse",
+		"player1": "bf",
+		"player2": "monster",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -1997,7 +1997,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": "gfm",
+		"player3": "gf",
 		"song": "Bopeebo",
 		"needsVoices": true,
 		"validScore": true,
