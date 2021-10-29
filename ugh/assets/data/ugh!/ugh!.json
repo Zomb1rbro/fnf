@@ -1720,11 +1720,11 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "ben",
+		"player2": "pico",
 		"player3": "gf",
-		"song": "drowning",
-		"stage": "graveyardfr",
-		"needsVoices": true,
+		"song": "ugh!",
+		"stage": "stage",
+		"needsVoices": false,
 		"validScore": true,
 		"bpm": 100,
 		"speed": 1.3
