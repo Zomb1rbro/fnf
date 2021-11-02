@@ -2,7 +2,7 @@
 	"song": {
 		"player1": "bf-pixel",
 		"sectionLengths": [],
-		"player2": "missingno",
+		"player2": "spirit",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -5750,10 +5750,9 @@
 				"mustHitSection": true
 			}
 		],
-		"song": "Missingno",
+		"song": "thorns",
 		"sections": 0,
 		"needsVoices": true,
-		"stage": "missingno",
 		"validScore": true,
 		"bpm": 185,
 		"speed": 2.8
