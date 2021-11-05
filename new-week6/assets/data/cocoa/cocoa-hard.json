@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "gf",
-		"player2": "hypno",
+		"player1": "bf-christmas",
+		"player2": "monster",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -2674,7 +2674,7 @@
 			}
 		],
 		"player3": "gf-christmas",
-		"song": "Safety Lullaby",
+		"song": "cocoa",
 		"arrowSkin": "",
 		"needsVoices": true,
 		"validScore": true,
