@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "gf",
+		"player1": "bf-christmas",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -2456,9 +2456,9 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "hypno",
+		"player2": "monster",
 		"player3": "gf-christmas",
-		"song": "Safety Lullaby",
+		"song": "cocoa",
 		"arrowSkin": "",
 		"needsVoices": true,
 		"validScore": true,
