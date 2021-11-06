@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "gf",
-		"player2": "hypno-two",
+		"player1": "bf-christmas",
+		"player2": "parents-christmas",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -6248,7 +6248,7 @@
 				"mustHitSection": true
 			}
 		],
-		"song": "Left-Unchecked",
+		"song": "eggnog",
 		"validScore": true,
 		"sections": 45,
 		"needsVoices": true,
