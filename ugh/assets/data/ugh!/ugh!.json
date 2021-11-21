@@ -3432,10 +3432,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "ben",
+		"player2": "pico",
 		"player3": "gf",
-		"song": "terrible-fate",
-		"stage": "clock",
+		"song": "ugh!",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"sections": 0,
