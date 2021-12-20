@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf-suicide",
+		"player1": "bf",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -2254,9 +2254,9 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "mouse",
+		"player2": "dad",
 		"player3": "gf-invisible",
-		"song": "wistfulness",
+		"song": "bopeebo",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 101,
